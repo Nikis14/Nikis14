@@ -1,6 +1,6 @@
 ## :wave: About me
-* MIPT master student in discrete mathematics
-* Interested in ML/DL, GNN, NLP
-* CV: 
-* How to contact me: [Telegram](t.me/nikis14)·[Twitter (Russian)](https://twitter.com/NikitaSeverin10)
+* :man_student: MIPT master student in discrete mathematics
+* :man_technologist: Interested in ML/DL, GNN, NLP
+* :briefcase: CV: 
+* :email: How to contact me: [Telegram](t.me/nikis14) · [Twitter (Russian)](https://twitter.com/NikitaSeverin10)
 
